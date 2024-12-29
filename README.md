@@ -24,7 +24,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/JoaoFranco03/photography-portfolio">
+  <a href="https://github.com/yh-li/thomas-portfolio">
     <img src="dist/assets/Logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -71,9 +71,9 @@
 
 # 📋 About The Project <a name="about-the-project"></a>
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/JoaoFranco03/photography-portfolio)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/yh-li/thomas-portfolio)
 
-This project is a web-based portfolio that beautifully showcases the photography work of Sophia Williams, a fictional photographer. The portfolio was skillfully built using a combination of powerful front-end technologies, including Tailwind CSS, CSS, HTML, and JavaScript.
+This project is a web-based portfolio that beautifully showcases the photography work of Thomas Yan. The portfolio was skillfully built using a combination of powerful front-end technologies, including Tailwind CSS, CSS, HTML, and JavaScript.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,7 +104,7 @@ To get a local copy up and running follow these simple example steps.
 1. Clone the repo
 
 ```sh
- git clone https://github.com/JoaoFranco03/photography-portfolio/.git
+ git clone https://github.com/yh-li/thomas-portfolio.git
 ```
 
 2.  Run the following command:
@@ -127,7 +127,7 @@ To get a local copy up and running follow these simple example steps.
 
 If you find this project useful, consider supporting me on Ko-fi. Thanks for checking it out!
 
-<a href="https://ko-fi.com/joaofranco03" target="_blank">
+<a href="/" target="_blank">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" style="height:40px;">
 </a>
 
@@ -145,9 +145,9 @@ Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 
 ## 📧 Contact <a name="contact"></a>
 
-João Franco - https://www.linkedin.com/in/joão-franco-452161195/
+Yihan Li - https://www.linkedin.com/in/yihan-li-0629a8105/
 
-Project Link: [https://github.com/JoaoFranco03/photography-portfolio/](https://github.com/JoaoFranco03/photography-portfolio/)
+Project Link: [https://github.com/yh-li/thomas-portfolio/](https://github.com/yh-li/thomas-portfolio)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,7 +180,7 @@ Project Link: [https://github.com/JoaoFranco03/photography-portfolio/](https://g
 [css-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [js-badge]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[license-url]: https://github.com/JoaoFranco03/photography-portfolio/blob/main/LICENSE.md
+[license-url]: https://github.com/yh-li/thomas-portfolio
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/joão-franco-452161195/
+[linkedin-url]: https://www.linkedin.com/in/yihan-li-0629a8105/
 [product-screenshot]: dist/assets/mockup.png
